@@ -1,0 +1,3 @@
+www.tutorailspoint.com
+https://www.geeksforgeeks.org/python-tkinter-message/?ref=lbp
+http://effbot.org/tkinterbook/grid.htm
